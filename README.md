@@ -9,7 +9,7 @@ Simple & fast MD5 hashing for Node.js that requires no other module dependencies
 	
 ## Usage
 	
-	var md5omatic = require('md5omatic');
+	var md5omatic = require('md5-o-matic');
 	
 	var hash;
 	hash = md5omatic('the quick brown fox jumps over the lazy dog');
