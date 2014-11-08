@@ -3,6 +3,12 @@ md5-o-matic
 
 Simple & fast MD5 hashing for Node.js that requires no other module dependencies since it is pure javascript.
 
+Performance can be found on jsperf.com in the MD5 Shootout, 
+
+http://jsperf.com/md5-hash-test 
+http://jsperf.com/md5-shootout/39
+
+
 ## Installation
 
 	npm install md5-o-matic

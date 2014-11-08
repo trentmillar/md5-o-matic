@@ -36,7 +36,7 @@
     "mocha": "",
     "should": ""
   },
-  "readme": "# md5-o-matic\n\nMD5-o-matic provides simple & fast MD5 hashing for Node.js that requires no other module dependencies.\n",
+  "readme": "# md5-o-matic\n\nMD5 Shootout and how it stacks up - http://jsperf.com/md5-shootout/39\nMD5-o-matic provides simple & fast MD5 hashing for Node.js that requires no other module dependencies.\n",
   "bugs": {
     "url": "https://github.com/trentmillar/md5-o-matic/issues"
   },
