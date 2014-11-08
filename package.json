@@ -1,7 +1,7 @@
 {
   "name": "md5-o-matic",
   "version": "0.1.0",
-  "description": "Fast and simple MD5 hashing utility with zero module dependencies",
+  "description": "Fast and simple MD5 hashing utility with zero module dependencies. View MD5 Shootout results, http://jsperf.com/md5-shootout/39",
   "main": "lib/md5omatic.js",
   "directories": {
     "test": "test"
